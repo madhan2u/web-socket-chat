@@ -1,0 +1,31 @@
+{
+  "name": "web-socket-chat",
+  "version": "1.0.0",
+  "description": "Web Chat application",
+  "main": "ws-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open index.html && node ws-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhan2u/web-socket-chat.git"
+  },
+  "keywords": [
+    "Chat",
+    "websocket",
+    "html",
+    "css",
+    "node",
+    "npm"
+  ],
+  "author": "MaDhan Naga",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/madhan2u/web-socket-chat/issues"
+  },
+  "homepage": "https://github.com/madhan2u/web-socket-chat#readme"
+}
